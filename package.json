@@ -1,0 +1,30 @@
+{
+  "name": "statesmachine",
+  "version": "1.0.1",
+  "description": "Library for states management",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsputilov/statesmachine.git"
+  },
+  "keywords": [
+    "state",
+    "management"
+  ],
+  "author": "Dmitrii Putilov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dsputilov/statesmachine/issues"
+  },
+  "homepage": "https://github.com/dsputilov/statesmachine#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
