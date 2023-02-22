@@ -1,6 +1,6 @@
 {
   "name": "states-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for states management",
   "main": "index.js",
   "scripts": {

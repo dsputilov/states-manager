@@ -42,7 +42,6 @@ let State = class {
 	 */
 	ready() {
 		this.isReady = true;
-		console.log('count:', this.count);
 		if (this.count > 0) {
 			this.count = 0;						// will call count.set
 		} else {
