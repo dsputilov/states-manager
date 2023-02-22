@@ -2,7 +2,7 @@ Usage:
 
 Import library
 
-    import State from "statesmachine";
+    import State from "states-manager";
 
 Create state machine
 

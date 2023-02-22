@@ -1,5 +1,5 @@
 {
-  "name": "statesmachine",
+  "name": "states-manager",
   "version": "1.0.1",
   "description": "Library for states management",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsputilov/statesmachine.git"
+    "url": "git+https://github.com/dsputilov/states-manager.git"
   },
   "keywords": [
     "state",
@@ -18,9 +18,9 @@
   "author": "Dmitrii Putilov",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dsputilov/statesmachine/issues"
+    "url": "https://github.com/dsputilov/states-manager/issues"
   },
-  "homepage": "https://github.com/dsputilov/statesmachine#readme",
+  "homepage": "https://github.com/dsputilov/states-manager#readme",
   "dependencies": {
   },
   "devDependencies": {
